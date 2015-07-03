@@ -1,6 +1,6 @@
 {
-  "name": "j5-shift-seven",
-  "version": "1.0.0",
+  "name": "shift-seven",
+  "version": "0.0.0",
   "description": "Seven segment display controlled by a shift register",
   "main": "index.js",
   "peerDependencies": {
