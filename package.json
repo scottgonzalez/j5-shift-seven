@@ -1,0 +1,28 @@
+{
+  "name": "j5-shift-seven",
+  "version": "1.0.0",
+  "description": "Seven segment display controlled by a shift register",
+  "main": "index.js",
+  "peerDependencies": {
+    "johnny-five": "^0.8.77"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottgonzalez/j5-shift-seven.git"
+  },
+  "keywords": [
+    "johnny-five",
+    "seven",
+    "segment"
+  ],
+  "author": {
+    "name": "Scott González",
+    "email": "scott.gonzalez@gmail.com",
+    "url": "http://scottgonzalez.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottgonzalez/j5-shift-seven/issues"
+  },
+  "homepage": "https://github.com/scottgonzalez/j5-shift-seven"
+}
