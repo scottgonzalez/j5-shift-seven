@@ -12,9 +12,9 @@ Shift Seven components must have the shift register pins connected to the seven 
 
 *Note: The DP pin is not used for drawing any numbers. However, you may use this when drawing with a custom binary string via `ShiftSeven#write()`.*
 
-![Seven segment display labeled](resources/7_segment_display_labeled.svg)
+![Seven segment display labeled](resources/7_segment_display_labeled.png)
 
-Image source: [Wikipedia](https://en.wikipedia.org/wiki/Seven-segment_display#/media/File:7_segment_display_labeled.svg), licensed CC BY-SA 3.0
+["7 segment display labeled" by user:h2g2bob](https://en.wikipedia.org/wiki/Seven-segment_display#/media/File:7_segment_display_labeled.svg). Licensed under CC BY-SA 3.0 via Wikimedia Commons.
 
 ![Breadboard for Shift Seven](resources/shift-seven.png)
 
